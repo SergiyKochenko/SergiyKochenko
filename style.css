@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+
+.body{
+  background-color: #b4f4caff;
+}
 /*slider*/
 #slider_bl .wrapper{
 max-width:60em;
