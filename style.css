@@ -459,7 +459,9 @@ font-family: 'Playfair Display', serif;
       display: table;
       background-color: #002e5b;
       margin-bottom: 0;
-     
+     position: fixed;
+      z-index: 2;
+      top: 0;
     }
     .container {
       width: 100%;
@@ -586,6 +588,14 @@ input[type=checkbox], label {
         top: 47px
       }
     }
+.signup {
+      margin-top: 80px;}
+
+  .goblin {
+    margin-top: 65px;
+    width: 100%;
+  }
+    
 /*form*/
     body {
       font-family: Arial, sans-serif;
@@ -629,6 +639,4 @@ input[type=checkbox], label {
     .btn:hover {
       background-color: #14a20a;
     }
-    .signup {
-      margin-top: 40px;
-    }
+    
