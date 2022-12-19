@@ -10,3 +10,14 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 Features
 Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGHN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.
 
+
+Heading
+The Heading clearly states the meaning and purpose of the page it’s in the same font and Colour as the rest of the page as I feel its suits it.
+
+About
+The about section explains what the webpage is for and why its been created and what the main goal of the page is.
+The home page describes the schedule, the address and contact information.
+
+Gallery
+the Gallery section shows some of the trips taken by people who joined on the days advertised and other shows of the event.
+
