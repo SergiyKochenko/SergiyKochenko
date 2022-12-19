@@ -7,3 +7,6 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 
 [amiresponsive_2.png](https://replit.com/@SergiyKochenko/PortfolioOne#Motorcycle%20Meat%20Up/assets/images/amiresponsive.png)
 
+Features
+Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGHN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.
+
