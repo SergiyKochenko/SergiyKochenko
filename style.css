@@ -219,7 +219,7 @@ margin-left:-400%;
     border: none;
 }
 .div {
-  padding: 70px; 
+  padding: 20px; 
   width: 100%;
   resize: both;
   overflow: auto;
@@ -307,7 +307,7 @@ footer p {
   margin-top: auto;
 }
 /*cards*/
-h1,h2,h3,div {
+h1,h2,h3,h4,div {
 	font-family: 'Merienda One', 'Brush Script MT', cursive;
 }
 .playfair{
