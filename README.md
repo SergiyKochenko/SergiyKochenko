@@ -21,3 +21,7 @@ The home page describes the schedule, the address and contact information.
 Gallery
 the Gallery section shows some of the trips taken by people who joined on the days advertised and other shows of the event.
 ![gallery](MotorcycleMeatUp/assets/images/gallery.png)
+
+
+Validator:
+![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
