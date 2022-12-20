@@ -65,6 +65,9 @@ There is a logo on the left side of the header with an active link to the social
 
 <h2>Lighthouse screenshots</h2>
 <h4>"SignUp" page mobile test</h4>
+
+<h2>Lighthouse screenshots</h2>
+<h4>"SignUp" page mobile test</h4>
   
 ![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
 <h4>"Home" page desktop test</h4>
