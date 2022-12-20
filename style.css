@@ -531,7 +531,7 @@ input[type=checkbox], label {
 }
 @media only screen and (max-width: 980px) {
       header {
-        padding: 20px 0
+        padding: 10px 0
       }
       #logo {
         padding: 0
@@ -595,7 +595,7 @@ input[type=checkbox], label {
       margin-top: 80px;}
 
   .goblin {
-    margin-top: 65px;
+    margin-top: 62px;
     width: 100%;
   }
     
@@ -610,7 +610,7 @@ input[type=checkbox], label {
       box-sizing: border-box;
     }
     .form {
-      max-width: 320px;
+      max-width: 520px;
       padding: 15px;
       background-color: #fff;
       margin-right: auto;
@@ -621,21 +621,21 @@ input[type=checkbox], label {
     .input {
       display: block;
       width: 100%;
-      padding: 8px 10px;
+      padding: 20px 10px;
       margin-bottom: 10px;
       border: 1px solid #ccc;
       font-family: inherit;
-      font-size: 16px;
+      font-size: 32px;
     }
     .btn {
       display: block;
       width: 100%;
-      padding: 8px 10px;
+      padding: 16px 10px;
       border: 0;
       background-color: #1cbc11;
       cursor: pointer;
       font-family: inherit;
-      font-size: 16px;
+      font-size: 36px;
       color: #fff;
     }
     .btn:hover {
