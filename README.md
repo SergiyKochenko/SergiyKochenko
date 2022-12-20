@@ -41,6 +41,7 @@ There is a logo on the left side of the header with an active link to the social
 
 
 <h2>Validator screenshots</h2>
+<br>
 <h4>index.html</h4>
   
 ![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
@@ -64,9 +65,7 @@ There is a logo on the left side of the header with an active link to the social
 ![style-css-validator](MotorcycleMeatUp/assets/images/style-css-validator.png)
 
 <h2>Lighthouse screenshots</h2>
-<h4>"SignUp" page mobile test</h4>
-
-<h2>Lighthouse screenshots</h2>
+<br>
 <h4>"SignUp" page mobile test</h4>
   
 ![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
@@ -82,3 +81,12 @@ There is a logo on the left side of the header with an active link to the social
 <h4>"SignUP" page desktop test</h4>
 
 ![sign-up-lighthous](MotorcycleMeatUp/assets/images/sign-up-lighthous.png)
+
+<h2>Deployment</h2>
+<br>
+<ol>
+<li>Go to github.com/respositories</li>
+<li>Select settings</li>
+<li>on the left hand side of the menu you will see "Pages" select that option.</li>
+<li>once in github pages section, select the branch section that says none chnage this to main and click save and it will deploy</li>
+</ol>
