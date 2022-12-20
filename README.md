@@ -23,11 +23,21 @@ the Gallery section shows some of the trips taken by people who joined on the da
 ![gallery](MotorcycleMeatUp/assets/images/gallery.png)
 
 
-Validator:
+Validator screenshots:
+
+index.html lfile
 ![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
 
+
+about.html file
 ![about-html-validator](MotorcycleMeatUp/assets/images/about-html-validator.png)
 
+
+form.html file
 ![form-html-validator](MotorcycleMeatUp/assets/images/form-html-validator.png)
 
+gallery.html file
 ![gallery-html-validotor](MotorcycleMeatUp/assets/images/gallery-html-validotor.png)
+
+style.html file
+![style-css-validator](MotorcycleMeatUp/assets/images/style-css-validator.png)

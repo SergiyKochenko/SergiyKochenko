@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
 
-.centered{
-  position: center;
-}
+
 .body{
   background-color: #b4f4caff;
 }
@@ -226,6 +224,7 @@ margin-left:-400%;
   width: 100%;
   resize: both;
   overflow: auto;
+  margin-bottom: 50px;
 }
 .div2 {
   padding: 20px; 
@@ -234,6 +233,10 @@ margin-left:-400%;
   overflow: auto;
   border-bottom: solid 60px #b4f4ca;
 }
+  .permit{
+    color: red;
+  }
+
 /*footer*/
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 *{
@@ -608,9 +611,8 @@ input[type=checkbox], label {
       font-family: Arial, sans-serif;
       font-size: 16px;
       color: #000;
-      
-      
-    }
+      background-color: #b4f4ca;
+      }
     * {
       box-sizing: border-box;
     }
