@@ -49,5 +49,7 @@ style.html file
 
 LIGHTHOUSE TEST screenshots:
 ![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
-
-
+![home-lighthouse](MotorcycleMeatUp/assets/images/home-lighthouse.png)
+![gallery-lighthous](MotorcycleMeatUp/assets/images/gallery-lighthous.png)
+![about-us-lighthous](MotorcycleMeatUp/assets/images/about-us-lighthous.png)
+![sign-up-lighthous](MotorcycleMeatUp/assets/images/sign-up-lighthous.png)
