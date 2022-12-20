@@ -25,3 +25,9 @@ the Gallery section shows some of the trips taken by people who joined on the da
 
 Validator:
 ![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
+
+![about-html-validator](MotorcycleMeatUp/assets/images/about-html-validator.png)
+
+![form-html-validator](MotorcycleMeatUp/assets/images/form-html-validator.png)
+
+![gallery-html-validotor](MotorcycleMeatUp/assets/images/gallery-html-validotor.png)
