@@ -10,17 +10,15 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 Features
 Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGHN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.
 
+About:
+The about section explains what the webpage is for and why its been created and what the main goal of the page is.
+The home page describes the schedule, the address and contact information.
 ![home-page](MotorcycleMeatUp/assets/images/home-page.png)
-
 
 Heading:
 The Heading clearly states the meaning and purpose of the page it’s in the same font and Colour as the rest of the page as I feel its suits it.
 The header is adaptive to smartphones and computer desktops with “Hamburger” auto folding and unfolding depending on the resolution screen of the device in use.
-
-
-About:
-The about section explains what the webpage is for and why its been created and what the main goal of the page is.
-The home page describes the schedule, the address and contact information.
+There is a logo on the left side of the header with an active link to the social-net bikers' common website.
 
 About Us - 
 The page describes the history of the organisation and gives information from years of foundation till now.
@@ -32,7 +30,6 @@ the Gallery section shows some of the trips taken by people who joined on the da
 
 
 Validator screenshots:
-
 index.html lfile
 ![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
 
@@ -50,5 +47,7 @@ gallery.html file
 style.html file
 ![style-css-validator](MotorcycleMeatUp/assets/images/style-css-validator.png)
 
-LIGHTHOUSE TESTS:
+LIGHTHOUSE TEST screenshots:
 ![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
+
+
