@@ -41,3 +41,6 @@ gallery.html file
 
 style.html file
 ![style-css-validator](MotorcycleMeatUp/assets/images/style-css-validator.png)
+
+LIGHTHOUSE TESTS:
+![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
