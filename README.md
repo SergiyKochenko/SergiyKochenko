@@ -106,21 +106,22 @@ There is a logo on the left side of the header with an active link to the social
 ![about-us-lighthouse-mobile](assets/images/about-us-lighthouse-mobile.png)
 
 <h3>Browser Compatibility</h3>
+<p>Testing has been carried out on the following browsers:</p>
 <ol>
-<li>Testing has been carried out on the following browsers :</li>
 <li>Google Chrome Version 108.0.5359.125 (Official Build) (64-bit)</li>
  <li> Google Chrome 106 Windows 10</li>
    <li>Google Chrome 105 Windows 10</li>
 <li>Safari on macOS (Safari Version 16.1.1)</li>
 </ol>
 <h3>OS Compatibility</h3>
+
+<p>Testing has been carried out on the following device:</p>
 <ol>
-<li>Testing has been carried out on the following device:</li>
 <li>Apple iPhone 12 Pro Max iOS 16 (16.0.2)</li>
-<li>Samsung (samsung SM-T285) Android 5.1.1 (22)</li>
-  <li>LENOVO (Lenovo Lenovo TB-X606X) Android 10 (29)</li>
-  <li>Samsung (samsung SM-T505) Android 11 (30)</li>
-  <li>Samsung SM-A107F Android 11 (30)</li>
+<li>Samsung (SM-T285) Android 5.1.1 (22)</li>
+<li>LENOVO (Lenovo Lenovo TB-X606X) Android 10 (29)</li>
+<li>Samsung (SM-T505) Android 11 (30)</li>
+<li>Samsung (SM-A107F) Android 11 (30)</li>
 </ol>
 
 <h2>Deployment</h2>
@@ -163,7 +164,10 @@ The link to the live site can be found here -https://sergiykochenko.github.io/Se
 
 <h2>Acknowledgements</h2>
 
-My inspiration for this project came from me, I love bike and I have one. 
+<h4>My inspiration for this project came from me, I love bike and I have one. 
 Tutor support at Code Institute for their help when required.
 I would like to thank my mentor Jubril Akolade for all his help and support throughout this project.
-I would also like to thank Irene for the fantastic support for this website.
+I would also like to thank Irene for the fantastic support for this website.</h4>
+
+<h3>Copyright</h3>
+<h4>Added a copyright notice in the footer as the site and all the content belongs to Biker's organisation and the images present in the portfolio of work.</h4>
