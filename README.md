@@ -80,7 +80,7 @@ There is a logo on the left side of the header with an active link to the social
 
 <h2>Lighthouse screenshots:</h3>
 <br>
-<h4>"Home" page desk top test</h4>
+<h4>"Home" page desktop test</h4>
   
 ![home-lighthouse-desktop](assets/images/home-lighthouse-desktop.png)
 <h4>"Home" page mobile test</h4>
@@ -128,4 +128,17 @@ The link to the live site can be found here -https://sergiykochenko.github.io/Se
   
 <h3>Media:</h3>
 <h4>The photos are from [https://ibb.co/]</h4>
+
+<h3>Technologies used</h3>
+<ol>
+<li>HTML5</li
+<li>www.w3schools.com</li>
+<li>CSS</li>
+<li>Git for version control.</li>
+<li>GitHub for the repository to store the files.</li>
+<li>GitHub Pages to deploy the site.</li>
+<li>Replit</li>
+<li>Youtube</li>
+<li>Replit</li>
+</ol>
 
