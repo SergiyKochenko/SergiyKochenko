@@ -9,6 +9,7 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 
 ![amiresponsive_2.png](assets/images/amiresponsive.png)
 
+
 <h3>Features</h3>
 
 <h4>&nbsp;&nbsp;&nbsp;Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.</h4>
