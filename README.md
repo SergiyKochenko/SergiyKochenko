@@ -7,7 +7,7 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 
 <h3>Amiresponsive</h3>
 
-![amiresponsive_2.png](MotorcycleMeatUp/assets/images/amiresponsive.png)
+![amiresponsive_2.png](assets/images/amiresponsive.png)
 
 <h2>Features</h2>
 <br>
@@ -19,7 +19,7 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
   <p>&nbsp;&nbsp;&nbsp;The home page describes the schedule, the address and contact information.</p></h4>
 
   
-![home-page](MotorcycleMeatUp/assets/images/home-page.png)
+![home-page](assets/images/home-page.png)
 
 <h2>Heading</h2>
 <br>
@@ -31,62 +31,62 @@ There is a logo on the left side of the header with an active link to the social
 <br>
 <h4>&nbsp;&nbsp;&nbsp;The page describes the history of the organisation and gives information from years of foundation till now.</h4>
   
-![about-us-page](MotorcycleMeatUp/assets/images/about-us-page.png)
+![about-us-page](assets/images/about-us-page.png)
 
 <h2>Gallery</h2>
 <br>
 <h4>&nbsp;&nbsp;&nbsp;The Gallery section shows some of the trips taken by people who joined on the days advertised and other shows of the event.</h4>
   
-![gallery](MotorcycleMeatUp/assets/images/gallery.png)
+![gallery](assets/images/gallery.png)
 
 
 <h2>Validator screenshots</h2>
 <br>
 <h4>index.html</h4>
   
-![index-html-valedate](MotorcycleMeatUp/assets/images/index-html-valedate.png)
+![index-html-valedate](assets/images/index-html-valedate.png)
 
 
 <h4>about.html</h4>
 
-![about-html-validator](MotorcycleMeatUp/assets/images/about-html-validator.png)
+![about-html-validator](assets/images/about-html-validator.png)
 
 
 <h4>form.html</h4>
 
-![form-html-validator](MotorcycleMeatUp/assets/images/form-html-validator.png)
+![form-html-validator](assets/images/form-html-validator.png)
 
 <h4>gallery.html</h4>
 
-![gallery-html-validotor](MotorcycleMeatUp/assets/images/gallery-html-validotor.png)
+![gallery-html-validotor](assets/images/gallery-html-validotor.png)
 
 <h4>style.html</h4>
   
-![style-css-validator](MotorcycleMeatUp/assets/images/style-css-validator.png)
+![style-css-validator](assets/images/style-css-validator.png)
 
 <h2>Lighthouse screenshots</h2>
 <br>
 <h4>"SignUp" page mobile test</h4>
   
-![lighthouse-test](MotorcycleMeatUp/assets/images/lighthouse-test.png)
+![lighthouse-test](assets/images/lighthouse-test.png)
 <h4>"Home" page desktop test</h4>
 
-![home-lighthouse](MotorcycleMeatUp/assets/images/home-lighthouse.png)
+![home-lighthouse](assets/images/home-lighthouse.png)
 <h4>"Gallery" page desktop test</h4>
 
-![gallery-lighthous](MotorcycleMeatUp/assets/images/gallery-lighthous.png)
+![gallery-lighthous](assets/images/gallery-lighthous.png)
 <h4>"Abour Us" page desktop test</h4>
 
-![about-us-lighthous](MotorcycleMeatUp/assets/images/about-us-lighthous.png)
+![about-us-lighthous](assets/images/about-us-lighthous.png)
 <h4>"SignUP" page desktop test</h4>
 
-![sign-up-lighthous](MotorcycleMeatUp/assets/images/sign-up-lighthous.png)
+![sign-up-lighthous](assets/images/sign-up-lighthous.png)
 
 <h2>Deployment</h2>
 <br>
 <ol>
 <li>Go to github.com/respositories</li>
 <li>Select settings</li>
-<li>on the left hand side of the menu you will see "Pages" select that option.</li>
-<li>once in github pages section, select the branch section that says none chnage this to main and click save and it will deploy</li>
+<li>On the left hand side of the menu you will see "Pages" select that option.</li>
+<li>Once in github pages section, select the branch section that says none chnage this to main and click save and it will deploy</li>
 </ol>
