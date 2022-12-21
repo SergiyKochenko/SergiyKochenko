@@ -142,3 +142,9 @@ The link to the live site can be found here -https://sergiykochenko.github.io/Se
 <li>Replit</li>
 </ol>
 
+<h2>Acknowledgements</h2>
+
+My inspiration for this project came from me, I love bike and I have one 
+Tutor support at Code Institute for their help when required.
+I would like to thank my mentor Jubril Akolade for all his help and support throughout this project.
+I would also like to thank Irene for the fantastic support for this website.
