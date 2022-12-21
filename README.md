@@ -1,5 +1,5 @@
 
-<center><h2>Welcome all to my first website MOTORCYCLE FESTIVAL!</h2></center>
+<center><h2>Welcome all to my first website MOTORCYCLE&nbsp;&nbsp;&nbsp;FESTIVAL!</h2></center>
 <br>
 <h4>&nbsp;&nbsp;&nbsp;The motorcycle festival is about to invite people to the MOTORCYCLE FESTIVAL. This website is for motorcycle enthusiasts and festival! It's designed to be a friendly place.  The attention of the advanced public is also attracted by festivals that combine music and various spiritual practices: the so-called "spaces" for self-development and communication with like-minded people.
 Of course, the main attraction for the audience is the content. Connoisseurs are eager to find out what the organizer has to offer them. And in the case of music festivals - who can he offer. And here the priority of goals and objectives again comes into force. The situation is twofold: on the one hand, the desire for commercial success of the project, to reach a wider audience dictates the need to invite sonorous names, on the other hand, the audience may be interested and often interested in everything new, including new performers.
@@ -11,7 +11,7 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 
 <h2>Features</h2>
 <br>
-<h4>&nbsp;&nbsp;&nbsp;Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGHN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.</h4>
+<h4>&nbsp;&nbsp;&nbsp;Featured at the top of the page id the logo (MENU) and the nav bar which in the nav bar you can navigate between the HOME, GALLERY, ABOUT US, CONTACTS  and SIGN UP, sections which are currently active and adaptive menu. The colour chosen for this page and the font were designed for readable and logical think it suits the page and its aspects and its easy to read and visually pleasing, the fonts are copperplate gothic light as I felt it suits the feel of the page and the type of people who will view this page it’s nice and sharp and stands out. The navigation is clearly labelled for users to easily find their way through the page and the social media links are clickable.</h4>
 
 <h2>About:</h2>
 <br>
@@ -39,6 +39,11 @@ There is a logo on the left side of the header with an active link to the social
   
 ![gallery](assets/images/gallery.png)
 
+<h2>The Sign Up Page</h2>
+
+This page will allow the user to get signed up to festival. The user will be able specify if they would like to take part in or not. The user will be asked to submit their full name, email address and some information  more.
+
+![sign-up-form](assets/images/sign-up-form.png)
 
 <h2>Validator screenshots</h2>
 <br>
