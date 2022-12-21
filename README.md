@@ -20,7 +20,6 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
   <p>&nbsp;&nbsp;&nbsp;The home page describes the schedule, the address and contact information.</p></h4>
 
   
-![home-page](assets/images/home-page.png)
 
 <h3>Heading</h3>
 
@@ -28,6 +27,7 @@ The real attraction of this fiesta is the “bike show and music”, goodwill an
 The header is adaptive to smartphones and computer desktops with “Hamburger” auto folding and unfolding depending on the resolution screen of the device in use.
 There is a logo on the left side of the header with an active link to the social-net bikers' common website.</h4>
 
+![home-page](assets/images/home-page.png)
 <h3>About Us</h3>
 
 <h4>&nbsp;&nbsp;&nbsp;The page describes the history of the organisation and gives information from years of foundation till now.</h4>
