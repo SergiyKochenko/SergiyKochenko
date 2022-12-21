@@ -118,8 +118,9 @@ There is a logo on the left side of the header with an active link to the social
 <li>Testing has been carried out on the following device:</li>
 <li>Apple iPhone 12 Pro Max iOS 16 (16.0.2)</li>
 <li>Samsung (samsung SM-T285) Android 5.1.1 (22)</li>
-  <li>LENOVO (Lenovo Lenovo TB-X606X)	Android_mini Android 10 (29)</li>
-  <li>Samsung (samsung SM-T505)	Android_mini Android 11 (30)</li>
+  <li>LENOVO (Lenovo Lenovo TB-X606X) Android 10 (29)</li>
+  <li>Samsung (samsung SM-T505) Android 11 (30)</li>
+  <li>Samsung SM-A107F Android 11 (30)</li>
 </ol>
 
 <h2>Deployment</h2>
