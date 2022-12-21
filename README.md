@@ -54,48 +54,56 @@ There is a logo on the left side of the header with an active link to the social
 
 <h2>Testing</h2>
 
-<h3>Validator screenshots</h3>
+<h3>Validator screenshots:</h3>
 <br>
-<h3>index.html</h3>
+<h4>index.html</h4>
   
 ![index-html-valedate](assets/images/index-html-valedate.png)
 
 
-<h3>about.html</h3>
+<h4>about.html</h4>
 
 ![about-html-validator](assets/images/about-html-validator.png)
 
 
-<h3>form.html</h3>
+<h4>form.html</h4>
 
 ![form-html-validator](assets/images/form-html-validator.png)
 
-<h3>gallery.html</h3>
+<h4>gallery.html</h4>
 
 ![gallery-html-validotor](assets/images/gallery-html-validotor.png)
 
-<h3>style.html</h3>
+<h4>style.html</h4>
   
 ![style-css-validator](assets/images/style-css-validator.png)
 
-<h3>Lighthouse screenshots</h3>
+<h2>Lighthouse screenshots:</h3>
 <br>
-<h3>"SignUp" page mobile test</h3>
+<h4>"Home" page desk top test</h4>
   
-![lighthouse-test](assets/images/lighthouse-test.png)
-<h3>"Home" page desktop test</h3>
+![home-lighthouse-desktop](assets/images/home-lighthouse-desktop.png)
+<h4>"Home" page mobile test</h4>
 
-![home-lighthouse](assets/images/home-lighthouse.png)
-<h3>"Gallery" page desktop test</h3>
+![home-lighthouse-mobile](assets/images/gallery-lighthouse-mobile.png)
+<h4>"Gallery" page desktop test</h4>
 
-![gallery-lighthous](assets/images/gallery-lighthous.png)
-<h3>"Abour Us" page desktop test</h3>
+![gallery-lighthouse-desktop](assets/images/gallery-lighthouse-desktop.png))
+<h4>"Gallery" page mobile test</h4>
 
-![about-us-lighthous](assets/images/about-us-lighthous.png)
-<h3>"SignUP" page desktop test</h3>
+![gallery-lighthouse-mobile](assets/images/gallery-lighthouse-mobile.png)
+<h4>"SighUp" page desktop test</h4>
 
-![sign-up-lighthous](assets/images/sign-up-lighthous.png)
+![sign-up-lighthouse-desktop](assets/images/sign-up-lighthouse-desktop.png)
+<h4>"SignUP" page mobile test</h4>
 
+![sign-up-lighthouse-mobile](assets/images/sign-up-lighthouse-mobile.png)
+<h4>"About Us" page desktop test</h4>
+
+![about-us-lighthouse-desktop](assets/images/about-us-lighthouse-desktop.png)
+<h4>"About Us" page mobile test</h4>
+
+![about-us-lighthouse-mobile](assets/images/about-us-lighthouse-mobile.png)
 <h2>Deployment</h2>
 <br>
 <ol>
