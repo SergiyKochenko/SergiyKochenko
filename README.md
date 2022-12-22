@@ -153,6 +153,7 @@ The link to the live site can be found here -https://sergiykochenko.github.io/Se
 <ol>
 <li>HTML5</li
 <li>www.w3schools.com</li>
+  <li>Font-awesome</li>
 <li>CSS</li>
 <li>Git for version control.</li>
 <li>GitHub for the repository to store the files.</li>
