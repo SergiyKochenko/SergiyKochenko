@@ -116,7 +116,7 @@ There is a logo on the left side of the header with an active link to the social
 <li>"Sign Up" page</li>
 </ul>
 
-<h3>Bugs</h3>
+<h3>Bug report</h3>
 
 <h4>"Step to reproduce:"</h4>
 <ol>
