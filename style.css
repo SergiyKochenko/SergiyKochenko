@@ -265,7 +265,7 @@ footer .wave{
     left: 0;
     width: 100%;
     height: 155px;
-    background: center 100% / cover no-repeat url('https://i.ibb.co/4ZJ5Q0n/pngwing-com-2.png');
+    background: center 100% / cover no-repeat url('assets/images/wave.png');
     background-size: 100% 170px;/*ширина и высота волны*/
 }
 .social,
@@ -318,7 +318,7 @@ font-family: 'Diplomata SC', cursive;
 #schedule {
 	padding: 10em 0;
 	margin-bottom: 0;
-	background: url('https://i.ibb.co/qFHZC2j/DSC-6279.jpg') center center / cover no-repeat fixed;
+	background: url('assets/images/DSC_6279.JPG') center center / cover no-repeat fixed;
 }
 #schedule-box {
 	background-color: rgba(165, 42, 42, 0.8);
